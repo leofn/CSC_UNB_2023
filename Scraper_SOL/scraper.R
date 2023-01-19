@@ -2,7 +2,7 @@ library(rvest)
 library(tidyverse)
 
 
-i <- (0:200)
+i <- seq(0,200,20)
 
 urlbase <- "https://repositorio.unb.br/handle/10482/826?offset=0"
 
