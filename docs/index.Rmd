@@ -1,10 +1,8 @@
 ---
-title: "**SICSS-FGV/DAPP Brazil 2022**"
-subtitle: "**O ecossistema multiplataforma de desinformação no Brasil através do Telegram**"
+title: "**Introduction to Computational Social Science: concepts, tools and challenges**"
+subtitle: "**Programa de Pós-Graduação em Sociologia UnB - SOL**"
 author:
 - Leonardo Nascimento (PPGCS/ICTI/LABHD/UFBA)
-- Letícia Cesarino (PPGSA/UFSC)
-- Paulo Fonseca (Poscultura/ICTI/LABHD/UFBA)
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output:
@@ -37,8 +35,13 @@ knitr::opts_chunk$set(
 ```{r eval=FALSE, include=FALSE}
 library(knitr)
 library(tidyverse)
-library(widgetframe)
 ```
+
+---
+class: middle, center  
+
+# Apresentações!😃 🙋️
+
 ---
 class: middle, center  
 
@@ -77,6 +80,18 @@ knitr::include_graphics("img/labhd.png")
 ---
 class: middle, center
 
+# Pesquisa atual
+--
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/telegram-2.png")
+```
+
+### + info [clique](https://internetlab.org.br/pt/noticias/analisando-os-ecossistemas-de-desinformacao-politica-no-telegram-durante-o-periodo-eleitoral/) 
+
+---
+class: middle, center
+
 # Financiamento
 
 .pull-left[
@@ -93,28 +108,39 @@ knitr::include_graphics("img/internetlab.png")
 ---
 class: inverse, center, middle
 
-# Pesquisa sobre desinformação no Telegram
+# Objetivo do encontro
 --
 
 <br>
-## Como começou?
---
-
-<br>
-## O que estamos fazendo!
---
-
-<br>
-## Onde queremos chegar...
+## Apresentar um breve panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
 
 ---
-class: inverse, middle, center
+class: inverse, center, middle
 
-## Graus ou níveis computacionais da pesquisa em ciências sociais!
+# Formato
+--
 
-```{r, out.width="80%"}
-knitr::include_graphics("img/evolution.gif")
-```
+<br>
+## 
+
+---
+class: middle, center
+
+# [The Coming Crisis of Empirical Sociology](https://journals.sagepub.com/doi/abs/10.1177/0038038507080443)
+--
+
+<br>
+## Artigo de 2007 mais citado da sociologia (1411 citações em 2023!) 
+--
+
+<br>
+## Trata da mudança do significado da pesquisa empírica e nos repertórios metodológicos da sociologia
+--
+
+<br>
+## Ideia central: "É a relevância das tecnologias de pesquisa empírica para a sociedade que torna a sociologia um campo de pesquisas importante socialmente"
+
+
 
 ---
 class: inverse, center, middle
