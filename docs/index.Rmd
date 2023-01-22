@@ -117,20 +117,20 @@ class: inverse, center, middle
 ---
 class: center, middle
 
-# Duplo diagnóstico
+# Duplo diagnóstico:
 <br>
 
 --
-## Sociedades contemporâneas e a computação ubíqua;
+## 1) "Digitalização do eu na vida cotidiana";
 <br>
 
 --
-## Efeitos sobre produção de conhecimento nas Humanidades.
+## 2) Efeitos sobre a produção de conhecimento nas Humanidades.
 
 ---
-class: middle, center
+class: inverse, middle, center
 
-# "Digitalização do eu na vida cotidiana" 
+# 1) "Digitalização do eu na vida cotidiana" 
 
 ```{r, out.width="80%"}
 knitr::include_graphics("img/ds.jpeg")
@@ -167,11 +167,14 @@ class: middle, center
 
 # Cultura de vigilância
 
-
 ```{r, out.width="65%"}
 knitr::include_graphics("img/surv.jpg")
 ```
 
+---
+class: inverse, middle, center
+
+# 2) Efeitos sobre a produção de conhecimento nas Humanidades: 
 
 ---
 class: middle, center
@@ -191,490 +194,15 @@ class: middle, center
 ## Ideia central: "É a relevância das tecnologias de pesquisa empírica para a sociedade que torna a sociologia um campo de pesquisas importante socialmente"
 
 
-
----
-class: inverse, center, middle
-
-# Como começou?
-
 ---
 class: middle, center
 
-<br>
-## Março de 2020: pandemia, início de controvérsias
---
+# Conclusões
 
-<br>
-## Telegram: híbridismo e paradoxo;   
---
+## "The internet is configuring a new scholarly apparatus that engenders different modes of research, scholarship and communication" (Featherstone, 2009)
 
-<br>
-## Controvérsias científicas e extrema-direita 
 
----
-class: inverse, middle, center
 
-# Procedimentos computacionais
-
----
-class: middle, center
-
-## Exportação do Telegram (HTML), processamento no R, GitHub
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/1.png")
-```
-
----
-class: middle, center
-
-# dataset
-
-## jan-dez/2020
-## 3 variables
-## +500k msgs
-## 1 group (+12k users)
-
-```{r, out.width="95%"}
-knitr::include_graphics("img/2.png")
-```
-
----
-class: middle, center
-
-## Quali: ATLAS.ti + Grounded Theory
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/3.png")
-```
-
----
-class: inverse, middle, center
-
-# Enquadramento teórico
-
----
-class: middle, center
-
-<br>
-## 1. Poder oracular/estudos sobre ignorância (McGoey 2019);
---
-
-<br>
-## 2. Populismo digital no Brasil (Cesarino, 2020)
-
-
----
-class: inverse, center, middle
-
-# O que esse nível computacional exigiu do pesquisador e o que ele permitiu enxergar/compreender sobre os dados?
-
----
-class: middle, center
-
-# msgs txt x msg media
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/g1_08-04-2021.png")
-```
-
----
-class: middle, center
-
-# "Talkatives"
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/g2_08-04-2021.png")
-```
-
----
-class: middle, center
-
-# Frequência de temáticas 
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/g4_19-04-2021.png")
-```
-
----
-class: middle, center
-
-# Ecossistema multiplataforma    
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/g5_19-04-2021.png")
-```
-
----
-class: middle, center
-
-# Outputs
-
-.pull-left[
-```{r, out.width="120%"}
-knitr::include_graphics("img/patriotic.png")
-```
-]
-.pull-right[
-```{r, out.width="125%"}
-knitr::include_graphics("img/poderoracular.png")
-```
-]
-
----
-class: inverse, middle, center
-
-# O que estamos fazendo! (2021)
-
----
-class: middle, center
-<br>
-# Jan 2021 
-
-## InternetLab abre chamada para projetos 
---
-
-<br>
-# Mai 2021 
-
-## Aprovados! Ecossistema de desinformação e propaganda computacional no aplicativo Telegram;   
---
-
-<br>
-# Jun 2021
-
-## primeiro protótipo automatizado de coleta 
-
----
-class: middle, center
-
-# Visão geral da pesquisa 
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/prototipo1.png")
-```
-
----
-class: inverse, middle, center
-
-# Procedimentos computacionais
-
----
-
-## Vitor Mussa (Engenheiro de dados): Server + Python + API + PostgreSQL  = TELEGRAM-TRACER 
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/tracer.png")
-```
-
----
-class: middle, center
-
-## Tarssio Barreto (Cientista de Dados) + Leo Nascimento: R/RStudio + SQL + GitHub
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/leo_tar.png")
-```
-
----
-class: middle, center
-
-# dataset (via Telegram-tracer $\color{red}{\text{*}}$) 
-<br>
-
-## jan-dez/2021
-## 27 variables
-## +9M msgs
-## 97 groups (+1M de users)
-## 127 channels (+4M usuers)
-## ~300m imgs 
-
----
-class: inverse, center, middle
-
-# Enquadramento teórico
-
----
-class: center, middle
-
-## 1. Públicos refratados (Abidin, 2021): efemeridade, descobertabilidade, decodificabilidade e silocialidade
-<br>
-
---
-## 2. Vigilância-como-método (Topinka, Finlayson & Osborne-Carey, 2021); 
-<br>
-
---
-## 3. Telegram como "dobradiça" (Letícia Cesarino)
-<br>
-
---
-## 4. "Lurker" (FERGUSON, 2017; Barratt e Maddox, 2016)
-<br>
-
----
-class: inverse, center, middle
-
-# O que esse nível computacional exigiu do pesquisador e o que ele permitiu enxergar/compreender sobre os dados?
-
----
-class: middle, center
-
-# Análises qualitativas
-<br>
-
---
-## Estudo de caso das imagens e memes de 01-09 de setembro de 2021  
-<br>
-
---
-## Atores, funções e temáticas
-<br>
-
---
-## Públicos: *mainstream* <=> profundezas
-<br>
-
----
-class: middle, center
-
-# Análises qualitativas
-<br>
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/0709_01.png")
-```
-
----
-class: middle, center
-
-# Análises qualitativas
-
-```{r, out.width="80%"}
-knitr::include_graphics("img/Captura de tela 2022-06-20 093045.png")
-```
-
----
-class: middle, center
-
-# Users in channels
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/plot_users_canais2.jpeg")
-```
-
----
-class: middle, center
-
-# Users in groups
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/plot_users_grupos2.jpeg")
-```
-
----
-class: middle, center
-
-# Frequência de mensagens nos grupos
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/total_msgs_grupos2.jpeg")
-```
-
-
----
-class: middle, center
-
-# Talkatives
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/top20_bar.jpeg")
-```
-
----
-class: middle, center
-
-# Talkatives
-
-```{r, out.width="150%"}
-knitr::include_graphics("img/plot_df_top1_talkative .png")
-```
-
----
-class: middle, center
-
-# Temáticas - STF
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/5cut.png")
-```
-
-
----
-class: middle, center
-
-# Ecossistema multiplataforma
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/unnamed-chunk-26-1.png")
-```
-
----
-class: middle, center
-
-# Youtube como epicentro de conteúdos
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/gfinal2.jpeg")
-```
-
----
-class: middle, center
-
-# Youtube como epicentro de conteúdos
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/eco_yt2.jpeg")
-```
-
----
-class: middle, center
-
-# Outputs
-
-.pull-above[
-```{r, out.width="600px"}
-knitr::include_graphics("img/refratados.png")
-```
-]
-.pull-below[
-```{r, out.width="600px"}
-knitr::include_graphics("img/mapping.png")
-```
-]
-
----
-class: inverse, middle, center
-
-# O que estamos fazendo! (2022)
-
----
-class: inverse, middle, center
-
-# Estrutura computacional + perspectiva teórica: novos desafios!
-
----
-class: middle, center
-
-## 1. Bloqueio do telegram e mudança na dinâmica dos chats;
-<br>
-
---
-## 2. Apagamento sistemático de mensagens e cifragem de conteúdos: *voldemorting* (Nagel, 2018);
-<br>
-
---
-## 3. Proliferação de chats com temáticas variadas;
-<br>
-
---
-## 4. Aumento da velocidade dos cenários exigia resposta em tempo real!  
-
----
-class: inverse, middle, center
-
-# Procedimentos computacionais
-
----
-class: middle, center
-
-# Pedro Moraes (Engenheiro de dados): Telegram-tracer 2.0
-<br>
-
---
-## 1. Coleta de dados em tempo-real (streaming)! 
-<br>
-
---
-## 2. Hashing de áudio, imagem e vídeo;   
-<br>
-
---
-## 3. Solução para integração entre equipes quali e quanti: ElasticSearch+ Kibana
-
----
-class: middle, center
-
-# [ElasticSearch + Kibana](https://telegram.metodosdigitais.org/app/home)
-
-```{r, out.width="200%"}
-knitr::include_graphics("img/elastic.png")
-```
-
----
-class: inverse, middle, center
-
-# Desafios metodológicos
-
----
-class: middle, center
-
---
-## 1. dados digitais enquanto um “objeto epistêmico complexo” cujo significado difere entre as ciências sociais e a ciência da informação e da computação (Aradau & Blanke, 2015);
-<br>
-
---
-## 2. Para além dos conteúdos, analisamos os aspectos formais das mensagens (Topinka, Finlayson & Osborne-Carey, 2021);
-<br>
-
---
-## 3. Real-time sociology? Sociologia dos dashboards?
-
----
-class: inverse, middle, center
-
-# Questões éticas
-
----
-class: middle, center
-
---
-## 1. Necessidade de novos parâmetros éticos de investigação em meios digitais (Salganik, 2018); 
-<br>
-
---
-## 2. Grupos públicos e anonimização total dos dados;
-<br>
-
---
-## 3. LGPD;
-<br>
-
---
-## 4. Impacto e proteção dos pesquisadores!
-
----
-class: inverse, middle, center
-
-# Próximos Desafios 
-
----
-class: middle, center
-
-## 1. [Criação de um modelo de linguagem em pt-br e fazer um fine-tuning com os dados para o reconhecimento de entidades (UFAM + UofA)](https://huggingface.co/ejhshskjsaljkdhsklhfkj);
-<br>
-
---
-## 2. Estudo de como os grupos formam sistemas entrópicos;
-<br>
-
---
-## 3. Estudar o comportamento dos Bots dentro deste ecossistema
-<br>
-
---
-## 4. Maior acervo sobre extrema-direita do Telegram: como compartilhar?
-<br>
 
 ---
 class: middle, center
@@ -700,3 +228,11 @@ knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.
 ### Vida longa ao SICSS!
 ]
 
+
+
+---
+class: middle, center
+
+## Referências bilbiográficas
+
+#### [FEATHERSTONE, M. Ubiquitous Media: An Introduction. Theory, Culture & Society, v. 26, n. 2–3, p. 1–22, 1 mar. 2009.](https://journals.sagepub.com/doi/10.1177/0263276409103104)
