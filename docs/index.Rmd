@@ -11,7 +11,6 @@ output:
     css: ["css/default.css", "css/mmp.css" , "css/mmp-fonts.css"]
     lib_dir: libs
     nature:
-      beforeInit: "https://platform.twitter.com/widgets.js"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -109,19 +108,70 @@ knitr::include_graphics("img/internetlab.png")
 class: inverse, center, middle
 
 # Objetivo do encontro
---
-
-<br>
-## Apresentar um breve panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
 
 ---
 class: inverse, center, middle
 
-# Formato
---
+# Apresentar um breve panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
 
+---
+class: center, middle
+
+# Duplo diagnóstico
 <br>
-## 
+
+--
+## Sociedades contemporâneas e a computação ubíqua;
+<br>
+
+--
+## Efeitos sobre produção de conhecimento nas Humanidades.
+
+---
+class: middle, center
+
+# "Digitalização do eu na vida cotidiana" 
+
+```{r, out.width="80%"}
+knitr::include_graphics("img/ds.jpeg")
+```
+---
+class: middle, center
+
+# Algoritmização de processos sociais
+
+```{r, out.width="60%"}
+knitr::include_graphics("img/matrix-digital-self.png")
+```
+
+---
+class: middle, center
+
+# Traços digitais (digital data trace)
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/socioloy.png")
+```
+
+---
+class: middle, center
+
+# Dataficação
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/datafication4.jpg")
+```
+
+---
+class: middle, center
+
+# Cultura de vigilância
+
+
+```{r, out.width="65%"}
+knitr::include_graphics("img/surv.jpg")
+```
+
 
 ---
 class: middle, center
