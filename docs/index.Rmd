@@ -665,7 +665,7 @@ class: center, middle
 - Análise qualitativa de dados
 - Linguagens R/Rstudio
 - Linguagens Python
-- Git/Github
+- [Git/Github]()
 - Análise de redes
 - Voyant Tools
 - [DMI](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
