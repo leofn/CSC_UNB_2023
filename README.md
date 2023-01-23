@@ -1,9 +1,10 @@
-# Mini-curso - Introdução à Ciência Social Computacional conceitos, ferramentas e desafios
+# Mini-curso: Introdução à Ciência Social Computacional conceitos, ferramentas e desafios
 
 - O que: apresentação e materiais do curso "Introdução à Ciência Social Computacional conceitos, ferramentas e desafios"
 - Quando: 23 e 25/01/2023 - 14h às 18h
 - Onde: Programa de Pós-Graduação em Sociologia UnB
 - Quem: Prof. Dr. Leonardo Nascimento (LABHD/UFBA)
+- Carga-horária: 6hs
 
 
 ### Questionário:
