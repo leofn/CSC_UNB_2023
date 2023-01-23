@@ -642,28 +642,76 @@ class: inverse, middle, center
 # FIM DO PRIMEIRO ENCONTRO!
 <br>
 
---
+---
+class: center, middle
+
 # Dúvidas, perguntas?
 
 ---
-class: inverse, center, middle
+class: inverse, middle, center
 
-# Alguns conceitos básicos
+# Ferramentas
 
-### API
-### Big data
-### CAQDAS
-### Text as data
-### Webscraping
-
-(continua)
+```{r, out.width="70%"}
+knitr::include_graphics("https://media.giphy.com/media/3oFzmhSdxPiyRyR5vi/giphy.gif")
+```
 
 ---
 class: center, middle
 
-- Gerenciamento de referências bibliográficas
-- Análise qualitativa de dados
-- Linguagens R/Rstudio
+# Gerenciamento de referências bibliográficas
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/zotero.webp")
+```
+
+---
+class: center, middle
+
+# Gerenciamento de referências bibliográficas
+<br>
+
+--
+## [Zotero do Zero - Tutorial de instalação do Zotero no Windows 10](https://youtu.be/CPdhyKboKC0)
+<br>
+
+--
+##[Workshop de Zotero - Ferramentas Digitais e a pesquisa em Humanidades](https://youtu.be/I5ohkh5d51Y)
+
+---
+class: center, middle
+
+# Análise qualitativa de dados
+<br>
+
+--
+## ATLAS.ti - NVivo - MaxQDA
+<br>
+
+--
+## Iramuteq
+<br>
+
+--
+## RQDA
+
+---
+class: center, middle
+
+# Análise qualitativa de dados
+<br>
+
+--
+## [Oficina LABHDUFBA - ATLAS.ti 7 (parte 1)](https://youtu.be/wmYHvfxfM5Q)
+<br>
+
+--
+## [Oficina LABHDUFBA - ATLAS.ti 7 (parte 2)](https://youtu.be/IB3ldXF1zEM)
+
+---
+#LP:R/Rstudio
+
+---
 - Linguagens Python
 - [Git/Github]()
 - Análise de redes
@@ -678,6 +726,18 @@ class: center, middle
 
 (continua)
 
+---
+class: inverse, center, middle
+
+# Alguns conceitos básicos
+
+### API
+### Big data
+### CAQDAS
+### Text as data
+### Webscraping
+
+(continua)
 ---
 class: middle, center
 
