@@ -15,3 +15,7 @@
 - Introdução do livro "SALGANIK, M. J. Bit by Bit: Social Research in the Digital Age. Princeton University Press, 2019." Poderá ser lida [aqui](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
 - [NASCIMENTO, L. Sociologia digital: uma breve introdução. Salvador: EDUFBA, 2020](https://repositorio.ufba.br/handle/ri/32746) 
+
+### Para saber mais (apresentações!)
+
+- [Slides sobre o texto de ABBOTT, A. Reflections on the Future of Sociology. Contemporary Sociology, v. 29, n. 2, 2000](https://prezi.com/z6zydhvhn2ya/aula-1-o-futuro-da-sociologia/?present=1)

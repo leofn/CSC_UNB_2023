@@ -110,18 +110,27 @@ class: inverse, center, middle
 # Objetivo do encontro
 
 ---
-class: inverse, center, middle
+class: center, middle
 
-# Apresentar um breve panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
+# Apresentar um panorama da Ciência Social Computacional (CSC) e sua relação com a Sociologia/Antropologia/História/Humanidades Digitais, enfatizando conceitos, ferramentas e desafios!
+
+---
+class: inverse, middle, center
+
+# Desafios
+
+```{r, out.width="80%"}
+knitr::include_graphics("https://media.giphy.com/media/MJgPOGVdwyOaxu0R3L/giphy.gif")
+```
 
 ---
 class: center, middle
 
-# Duplo diagnóstico:
+# De onde vem os atuais desafios? 
 <br>
 
 --
-## 1) "Digitalização do eu na vida cotidiana";
+## 1) "Digitalização do eu na vida cotidiana" (Nascimento, 2020);
 <br>
 
 --
@@ -130,42 +139,44 @@ class: center, middle
 ---
 class: inverse, middle, center
 
-# 1) "Digitalização do eu na vida cotidiana" 
+## 1) "Digitalização do eu na vida cotidiana" (Nascimento, 2020)
 
 ```{r, out.width="80%"}
 knitr::include_graphics("img/ds.jpeg")
 ```
 ---
-class: middle, center
+class: inverse, center, middle
 
-# Algoritmização de processos sociais
+## Algoritmização de processos sociais
 
 ```{r, out.width="60%"}
 knitr::include_graphics("img/matrix-digital-self.png")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-# Traços digitais (digital data trace)
+## Traços digitais (Howison et al. 2011, p. 769)
+
 
 ```{r, out.width="75%"}
 knitr::include_graphics("img/socioloy.png")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-# Dataficação
+## Dataficação (Cukier & Mayer-Schoenberger, 2013)
 
 ```{r, out.width="75%"}
 knitr::include_graphics("img/datafication4.jpg")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-# Cultura de vigilância
+## Cultura de vigilância (Lyon, 2018)
+
 
 ```{r, out.width="65%"}
 knitr::include_graphics("img/surv.jpg")
@@ -176,13 +187,12 @@ class: inverse, middle, center
 
 # 2) Efeitos da "digitalização" sobre a produção de conhecimento nas Humanidades.
 
-
 ---
 class: middle, center
 
 .pull-left[
 
-# 2000
+## ABBOTT, 2000
 
 ```{r, out.width="110%"}
 knitr::include_graphics("img/abbott.png")
@@ -190,7 +200,7 @@ knitr::include_graphics("img/abbott.png")
 [Clique para acessar](https://doi.org/10.2307/2654383)
 ]
 .pull-right[
-# 2007
+## Savage & Burrows, 2007
 
 ```{r, out.width="110%"}
 knitr::include_graphics("img/savage.png")
@@ -202,17 +212,18 @@ knitr::include_graphics("img/savage.png")
 class: middle, center
 
 # [Reflections on the Future of Sociology - 2000](https://doi.org/10.2307/2654383)
-
---
-### "mais comportamentos conduzidos eletronicamente" -> "dados em tempo contínuo e em nível populacional" 
-<br>
-
--- 
-### "... sociologia está lamentavelmente despreparada para lidar com esse problema: não temos nem as ferramentas analíticas nem a imaginação conceitual necessária"
 <br>
 
 --
-### "temos hoje demasiados teóricos que não fazem nada além de pensar sobre a teoria anteriormente produzida. [...] Importantes teorias sociais sempre crescem a partir de um extenso trabalho empírico"
+### "+ comportamentos conduzidos eletronicamente" e "+ dados em tempo contínuo e em nível populacional" 
+<br>
+
+--
+### **"...sociologia está lamentavelmente despreparada para lidar com esse problema: não temos nem as ferramentas analíticas nem a imaginação conceitual necessária"**
+<br>
+
+--
+### "temos demasiados teóricos que não fazem nada além de pensar sobre a teoria anteriormente produzida. [...] Importantes teorias sociais sempre crescem a partir de um extenso trabalho empírico"
 <br>
 
 ---
@@ -242,7 +253,7 @@ class: middle, center
 class: middle, center
 
 .pull-left[
-#2009
+## Wynn, 2009
 
 ```{r, out.width="100%"}
 knitr::include_graphics("img/wynn.png")
@@ -252,25 +263,58 @@ knitr::include_graphics("img/wynn.png")
 ]
 .pull-right[
 
-#2013
-
-```{r, out.width="80%"}
-knitr::include_graphics("img/orton.jfif")
+## Conte, Gilbert, Bonelli et al, 2012
+ 
+```{r, out.width="110%"}
+knitr::include_graphics("img/manifesto.png")
 ```
-[Clique para acessar](https://www.amazon.com.br/Digital-Sociology-Perspectives-Kate-Orton-Johnson/dp/0230222838)
+[Clique para acessar](https://link.springer.com/article/10.1140/epjst/e2012-01697-8)
 ]
 
 ---
 class: inverse, middle, center
 
-# "nós deveríamos treinar os estudantes para serem reflexivos em relação à tecnologia" (WYNN, 2009, p. 449)
+# "A crescente integração da tecnologia em nossas vidas criou volumes sem precedentes de dados que a abrem novas oportunidades em direção a um entendimento quantitativo dos sistemas sociais" (Conte, Gilbert, Bonelli et al, 2012)
 
 ---
 class: middle, center
 
 .pull-left[
 
-#2015
+## HORST & MILLER, 2012
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/antro.jpg")
+```
+[Clique para acessar](https://www.amazon.ca/Digital-Anthropology-Heather-Horst/dp/0857852906)
+
+]
+.pull-right[
+
+## JUNGHERR, 2015
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/jungherr.webp")
+```
+[Clique para acessar](https://link.springer.com/book/10.1007/978-3-319-20319-5)
+]
+
+---
+class: inverse, middle, center
+
+# "a própria idéia de 'cultura' ou 'sociedade' não pode ser plenamente compreendida sem o reconhecimento de que os dispositivos de software e hardware constituem ativamente a individualidade, a corporeidade, a vida social, as relações sociais e as instituições" (HORST & MILLER, 2012)
+
+---
+class: inverse, middle, center
+
+# Apesar de todas as diferenças, ciências sociais computacionais, métodos digitais e big data compartilham uma convicção subjacente: novas fontes de dados e novas técnicas para armazenamento e análise de dados podem levar à próxima mudança de paradigma nas ciências sociais. (JUNGHERR, 2015, p.34)
+
+---
+class: middle, center
+
+.pull-left[
+
+## Lupton, 2015
 
 ```{r, out.width="100%"}
 knitr::include_graphics("img/lupton.jpg")
@@ -280,149 +324,222 @@ knitr::include_graphics("img/lupton.jpg")
 ]
 .pull-right[
 
-#2017
+## Nascimento, 2016
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/leo.png")
+```
+[Clique para baixar](https://www.scielo.br/j/soc/a/y9gtcQSrjjXVyRfryrKpXBk/?format=pdf&lang=pt)
+]
+
+---
+class: inverse, middle, center
+
+# Eu argumentaria que a sociologia precisa fazer o estudo das tecnologias digitais central às suas atribuições. Todos os tópicos que os sociólogos agora pesquisam e ensinam estão inevitavelmente conectados às tecnologias digitais (LUPTON, 2015, p. 5)
+
+
+---
+class: inverse, middle, center
+
+# Quando algum sociólogo supera a barreira epistemológica do qualitativismo tacanho que impera nos programas de pós-graduação, ele se encontra desesperado porque simplesmente precisa “terceirizar” a coleta e análise dos dados. (Nascimento, 2016, p.234)
+
+---
+class: middle, center
+
+.pull-left[
+
+## Rockwell & Sinclair, 2016
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/rock.avif")
+```
+[Clique para acessar](https://mitpress.mit.edu/9780262545891/hermeneutica/)
+
+]
+
+.pull-right[
+
+## DANIELS, GREGORY, & COTTOM, 2016. 
+
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/jesse.jpg")
+```
+[Clique para acessar](https://www.amazon.ca/Digital-Sociologies-Jessie-Daniels/dp/1447329015)
+
+] 
+
+---
+class: middle, center
+
+.pull-left[
+
+## Marres, 2017
 
 ```{r, out.width="100%"}
 knitr::include_graphics("img/marres.jpg")
 ```
 [Clique para acessar](https://www.amazon.com.br/Digital-Sociology-Reinvention-Research-English-ebook/dp/B071HRPK4B/ref=sr_1_2)
+
 ]
+.pull-right[
 
----
-class: middle, center
+## 2019
 
-.pull-left[
-
-#2019
-
-```{r, out.width="65%"}
+```{r, out.width="100%"}
 knitr::include_graphics("img/selwyn.jpg")
 ```
 [Clique para acessar](https://www.amazon.com.br/What-Digital-Sociology-Neil-Selwyn/dp/1509527117)
 
 ]
-.pull-right[
 
-#2020*
+---
+class: inverse, middle, center
 
-```{r, out.width="950px"}
-knitr::include_graphics("img/gabe.jpeg")
-```
-[Clique para acessar](https://www.amazon.com/Sociological-Theory-Digital-Gabe-Ignatow/dp/0367263475)
-]
+# Digital como "fato social total" (Marres, 2017)
 
 ---
 class: middle, center
 
 .pull-left[
 
-#2016
+## Gabe, 2020
 
-```{r, out.width="100%"}
-knitr::include_graphics("img/leo.png")
+```{r, out.width="120%"}
+knitr::include_graphics("img/gabe.jpeg")
 ```
-[Clique para baixar](https://www.scielo.br/j/soc/a/y9gtcQSrjjXVyRfryrKpXBk/?format=pdf&lang=pt
-)
+[Clique para acessar](https://www.amazon.com/Sociological-Theory-Digital-Gabe-Ignatow/dp/0367263475)
 ]
-
 .pull-right[
 
-#2021
+## Nascimento, 2021
 
-```{r, out.width="80%"}
+```{r, out.width="70%"}
 knitr::include_graphics("img/bookleo.png")
 ```
 [Clique para baixar](https://repositorio.ufba.br/ri/handle/ri/32746/statistics)]
 
----
-
-class: inverse, center, middle
-
-# Como eu cheguei na **sociologia digital**? (ou era uma vez um **N00b**...)
-
-```{r, out.width="60%"}
-knitr::include_graphics("https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif")
-```
+]
 
 ---
 class: inverse, center, middle
 
 # Desafios
 
-### Novos tipos/padrões/estruras de dados sobre o comportamento em sociedade - movimento auto-reflexivo: "sociologia dos datasets"
+---
+class: center, middle
 
-### Aprendizando de novas medotodologias  - movimento auto-reflexivo: "sociologia das ferramentas digitais"
+# Produzir uma Ciência Social Computacional crítica...
+<br>
 
+--
+## ...dos datasets"
+<br>
 
-### articulação da teoria social com novas metodologias
+--
+## ...das ferramentas
+<br>
 
-- Estudantes de graduação e pós-graduação seriam ensinados
-como construir uma teoria por conta própria, principalmente fazendo pequenos projetos empíricos que introduzem os alunos à abstração, abdução e indução.
+--
+## ...que articule teoria social e métodos computacionais
+<br>
 
-- Ensinar teorização como uma habilidade prática em vez de teoria como história intelectual implica em desenvolver habilidades em design de pesquisa, resolução de problemas e pensamento abstrato, analógico e abdutivo.
+--
+## ...e pública
+<br>
 
+---
+class: center, middle
+
+# CSC: crítica dos datasets
+<br>
+<br>
+
+--
+## ["Raw Data" Is an Oxymoron](https://direct.mit.edu/books/book/3992/Raw-Data-Is-an-Oxymoron) 
+
+---
+class: center, middle
+
+# CSC: crítica dos datasets
+<br>
+
+--
+## "Para trabalhar com dados, você precisa entender aquilo que os dados estão tentando representar. Uma das primeiras coisas que devemos fazer diante de uma base de dados, é compreender as condições através das quais essa base de dados chegou a existir. Há sempre uma história por trás dos dados. Há sempre uma narrativa."
+
+[Smari McCarthy, making data speak](https://exposingtheinvisible.org/en/films/smari-mccarthy-making-data-speak/)
 
 
 ---
-class: inverse, center, middle
+class: center, middle
 
-# Conceitos
+# CSC: crítica dos datasets
+<br>
 
+--
+## O trabalho do <s>historiador</s> ciêntista social diante do arquivo digital, portanto, não é tão diferente do trabalho diante do arquivo físico, pois exige tanto rigor metodológico no tratamento da fonte quanto o tratamento de uma fonte não digital. [...]esse cuidado muitas vezes é escamoteado diante da profusão de fontes, a agilidade da busca, a velocidade do acesso e a facilidade do armazenamento. 
+<br>
+
+## [Brasil & Nascimento, 2020](https://www.scielo.br/j/eh/a/XNJJWhFFzPKdkhF6cyj5BJv/)
 
 ---
-class: inverse, center, middle
+class: center, middle
 
-# O que significa o **digital** na **sociologia digital**?
+# CSC: crítica dos datasets
+<br>
+
+--
+## Publicidade, acessibilidade e terceirização
+<br>
+
+--
+## Evocaçao/"Ad hoc" versus coleta (*repurpose* - Salganik, 2020)
+<br>
+
+---
+class: center, middle
+
+# CSC: crítica das ferramentas
+<br>
+
+--
+## Um "erro no código" passa a constituir um "erro metodológico"
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/python.png")
+```
 
 ---
 class: middle, center
 
---
-## 1. Digital como **objeto de pesquisa**;
+# CSC: crítica das ferramentas
 <br>
 
 --
-## 2. Digital como **instrumentos e métodos de pesquisa**;
-<br>
+## "nossos ajudantes digitais já estão cheios de teoria e julgamento" (Bernhard Rieder and Theo Röhle in: BERRY, 2012, p. 70)
 
---
-## 3. Digital como **plataforma** para nos engajarmos com audiências e públicos mais amplos.
-
----
-class: inverse, center, middle
-
-# Três conjuntos de **desafios**?
+```{r, out.width="40%"}
+knitr::include_graphics("img/bender.jpg")
+```
 
 ---
 class: middle, center
 
-# **Dados digitais**
+# CSC: crítica das ferramentas
 <br>
 
 --
-## Publicidade e acessibilidade
-<br>
+## “Não existe neutralidade metodológica das técnicas” 
+(BOURDIEU; PASSERON; CHAMBOREDON, 2004, p. 55)
 
---
-## Terceirização da etapa de coleta de dados
-<br>
-
---
-## Evoca versus coleta (*repurpose* - Salganik, 2020)
-<br>
-
---
-## Representatividade dos dados
-<br>
-
---
-## big data (Cf. Salganik, 2020)
-<br>
+```{r, out.width="40%"}
+knitr::include_graphics("img/bourdieu.jpg")
+```
 
 ---
 class: middle, center
 
-# **Métodos digitais**
+# CSC: crítica das ferramentas
 <br>
 
 --
@@ -437,32 +554,42 @@ class: middle, center
 ## Superação da suposta oposição Quali-quanti
 <br>
 
---
-## Crítica e epistemológica às ferramentas digitais
+---
+class: center, middle
+
+# CSC: articulação teoria e empiria
 <br>
+
+--
+### Estudantes de graduação e pós-graduação [deveriam ser] ensinados como construir uma teoria por conta própria, principalmente fazendo pequenos projetos empíricos que introduzem os alunos à abstração, abdução e indução. Ensinar teorização como uma habilidade prática em vez de teoria como história intelectual implica em desenvolver habilidades em design de pesquisa, resolução de problemas e pensamento abstrato, analógico e abdutivo. 
+<br>
+
+##(GABE, 2020, p.96)
+
+---
 
 ---
 class: middle, center
 
-# **Plataformas**
+# CSC crítica e pública
 <br>
 
 --
-## Presença digital: visibilidade e engajamento
+## Importância da presença digital: visibilidade e engajamento
 <br>
 
 --
-## Tentação ao profetismo
+## Data power!
 <br>
 
 --
-## Sedução das lógicas de metrificação das plataformas
+## Tentação ao profetismo e sedução pelas lógicas de metrificação 
 <br>
 
 ---
 class: inverse, center, middle
 
-# Para finalizar: como eu aprendo a fazer **sociologia digital**?
+# Como eu aprendo a fazer **Ciência Social Computacional**?
 
 ---
 class: middle, center
@@ -492,50 +619,98 @@ class: middle, center
 <br>
 
 ---
+class: middle, center
+
+# À guisa de conclusão: "certo, mas onde eu começo"?
+<br>
+
+--
+## Investir no letramento digital!
+<br>
+
+--
+## Praticar ciência aberta: dados abertos, códigos abertos, ferramentas abertas;
+<br>
+
+--
+## Abandonar o fetichismos dos dados, dos métodos e dos resultados
+
+---
+class: inverse, middle, center
+
+
+# FIM DO PRIMEIRO ENCONTRO!
+<br>
+
+--
+# Dúvidas, perguntas?
+
+---
 class: inverse, center, middle
 
-# **Na prática** o que eu devo fazer?
+# Alguns conceitos básicos
 
+### API
+### Big data
+### CAQDAS
+### Text as data
+### Webscraping
+
+(continua)
+
+---
+class: center, middle
+
+- Gerenciamento de referências bibliográficas
+- Análise qualitativa de dados
+- Linguagens R/Rstudio
+- Linguagens Python
+- Git/Github
+- Análise de redes
+- Voyant Tools
+- [DMI](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
+- [Text as data](https://github.com/davi-moreira/txt4cs)
+- [SICSS CV](https://sicss.io/curriculum)
+- [SICC R/Rstudio](https://sicss.io/boot_camp/)
+- [R fopr Data Science](https://r4ds.had.co.nz/index.html)
+- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
+- [Curso de R](https://livro.curso-r.com/2-rstudio.html)
+
+(continua)
 
 ---
 class: middle, center
 
-# Conclusões
-
-## "The internet is configuring a new scholarly apparatus that engenders different modes of research, scholarship and communication" (Featherstone, 2009)
-
-
-
-
----
-class: middle, center
-
-## Obrigado gente!
+# Obrigado gente!
 
 .pull-left[
-```{r, out.width="70%"}
-knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.gif")
+```{r, out.width="150%"}
+knitr::include_graphics("https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif")
 ```
 ]
 .pull-right[
-##**Agradecimentos especiais**: 
+#### **Agradecimentos especiais**: 
 
-- À Polyana Barboza, Lucas Roberto Silva, Amaro Grassi, Tiago Ventura pelo convite!
+- Professor Tiago Ribeiro Duarte e ao Programa de Pós-Graduação em Sociologia UnB pelo convite!
 
-- Aos **bolsistas IC do projeto (Pibic, Pibiti e Permanecer):** Iolanda, Thamyres, Daniel, Talia, Emily, Beatriz, Priscila, Ingrid, Anna Carol, Malu, Juciane (mestranda) e Jefte (mestrando)!
-<br>
-
-### 
-<br>
-
-### Vida longa ao SICSS!
 ]
-
-
 
 ---
 class: middle, center
 
 ## Referências bilbiográficas
 
-#### [FEATHERSTONE, M. Ubiquitous Media: An Introduction. Theory, Culture & Society, v. 26, n. 2–3, p. 1–22, 1 mar. 2009.](https://journals.sagepub.com/doi/10.1177/0263276409103104)
+BOURDIEU, P.; PASSERON, J. C.; CHAMBOREDON, J. C. Ofício de Sociólogo: metodologia da pesquisa na sociologia. Petrópolis: Vozes, 2004. 
+
+Boyd, D., & Crawford, K. (2012). Critical questions for big data. Information, Communication & Society, 15(5), 662–679
+
+[FEATHERSTONE, M. Ubiquitous Media: An Introduction. Theory, Culture & Society, v. 26, n. 2–3, p. 1–22, 1 mar. 2009.](https://journals.sagepub.com/doi/10.1177/0263276409103104)
+
+[HOWISON, J.; WIGGINS, A.; CROWSTON, K. Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, v. 12, n. 12, 29 dez. 2011.](http://aisel.aisnet.org/jais/vol12/iss12/2)
+
+RIEDER, B.; RÖHLE, T. Digital Methods. In: SCHÄFER, M. T.; VAN ES, K. (Ed.). The Datafied Society. Studying Culture through Data. [s.l.] Amsterdam University Press, 2017. p. 109–124. 
+
+[SOUTHERTON, C. Datafication. In: SCHINTLER, L. A.; MCNEELY, C. L. (Ed.). Encyclopedia of Big Data. Cham: Springer International Publishing, 2020. p. 1–4.](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-32001-4_332-1)
+
+
+
