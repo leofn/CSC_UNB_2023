@@ -1,4 +1,4 @@
-# "Introdução à Ciência Social Computacional conceitos, ferramentas e desafios
+# Mini-curso - Introdução à Ciência Social Computacional conceitos, ferramentas e desafios
 
 - O que: apresentação e materiais do curso "Introdução à Ciência Social Computacional conceitos, ferramentas e desafios"
 - Quando: 23 e 25/01/2023 - 14h às 18h
