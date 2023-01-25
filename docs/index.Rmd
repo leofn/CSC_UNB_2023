@@ -672,15 +672,19 @@ class: center, middle
 <br>
 
 --
-## [https://www.zotero.org/](https://www.zotero.org/)
+### Por que? Para que? 
 <br>
 
 --
-## [Zotero do Zero - Tutorial de instalação do Zotero no Windows 10](https://youtu.be/CPdhyKboKC0)
+### [https://www.zotero.org/](https://www.zotero.org/)
 <br>
 
 --
-##[Workshop de Zotero - Ferramentas Digitais e a pesquisa em Humanidades](https://youtu.be/I5ohkh5d51Y)
+### [Zotero do Zero - Tutorial de instalação do Zotero no Windows 10](https://youtu.be/CPdhyKboKC0)
+<br>
+
+--
+### [Workshop de Zotero - Ferramentas Digitais e a pesquisa em Humanidades](https://youtu.be/I5ohkh5d51Y)
 
 ---
 class: center, middle
@@ -689,21 +693,20 @@ class: center, middle
 <br>
 
 --
-### [ATLAS.ti](https://atlasti.com/)
+## Por que? Para que? 
 <br>
+
+--
+### [ATLAS.ti](https://atlasti.com/)
 
 --
 ### [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home)
-<br>
 
 --
 ### [MaxQDA](https://www.maxqda.com/)
-<br>
-
 
 --
 ### [Iramuteq](http://www.iramuteq.org/)
-<br>
 
 --
 ### [RQDA](https://rqda.r-forge.r-project.org/)
@@ -731,6 +734,7 @@ class: center, middle
 # R/Rstudio
 <br>
 
+--
 ## Por que? Para que? 
 <br>
 
@@ -781,19 +785,19 @@ class: center, middle
 <br>
 
 --
-### Por que? Para que? 
+## Por que? Para que? 
 <br>
 
 --
-## [Como instalar?](http://python.org.br/instalacao-windows/)
+### [Como instalar?](http://python.org.br/instalacao-windows/)
 <br>
 
 --
-## [Comece aqui!](https://leofn.github.io/oficina-python/#/)
+### [Comece aqui!](https://leofn.github.io/oficina-python/#/)
 <br>
 
 --
-## [Onde aprender mais?](https://pythonhumanities.com/python-for-dh-course/)
+### [Onde aprender mais?](https://pythonhumanities.com/python-for-dh-course/)
 
 
 ---
@@ -812,6 +816,20 @@ class: center, middle
 
 --
 ## [Comece aqui!](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12-RLadies-12-Git-Github-Ana-Bastos.pdf)
+<br>
+
+---
+class: center, middle
+
+# GitHub
+<br>
+
+--
+## Por que? Para que? 
+<br>
+
+--
+## [Git e Github para noobs das humanidades](https://www.youtube.com/watch?v=ZSevDOHWsNM)
 <br>
 
 --
@@ -867,6 +885,7 @@ class: center, middle
 # Ferramentas de raspagem para Twitter
 <br>
 
+## [rtweet](https://docs.ropensci.org/rtweet/)
 
 ---
 class: center, middle
@@ -889,10 +908,15 @@ class: center, middle
 ---
 class: center, middle
 
-# [Digital Methods Intiative](Digital Methods Initiative)
+# Digital Methods Intiative
+<br>
 
 --
-## Por que?  
+## Por que? Para que?  
+<br>
+
+--
+## [Digital Methods Intiative](Digital Methods Initiative)
 <br>
 
 --
@@ -902,24 +926,37 @@ class: center, middle
 ---
 class: center, middle
 
-# [Programming Historian](Digital Methods Initiative)
+# Programming Historian
+<br>
 
+--
+## Por que? Para que? 
+<br>
+
+--
+## [Site do Programming Historian](https://programminghistorian.org/pt/)
 
 ---
 class: center, middle
 
-# [SICSS - SSummer Institute in Computational Social Science](https://sicss.io/curriculum)
+# SICSS - SSummer Institute in Computational Social Science
 <br>
 
 --
-## Por que?  
+## Por que? Para que? 
 <br>
+
+--
+## [SICSS - SSummer Institute in Computational Social Science](https://sicss.io/curriculum)
+<br>
+
 
 ---
 class: inverse, center, middle
 
 # Alguns conceitos básicos
 
+
 ---
 class: inverse, center, middle
 
@@ -927,9 +964,6 @@ class: inverse, center, middle
 
 ---
 class: center, middle
-
-# Webscraping
-<br>
 
 --
 ## Em português, "raspagem de dados";
@@ -958,26 +992,33 @@ knitr::include_graphics("https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif")
 class: inverse, center, middle
 
 # API
+
+---
+class: center, middle
+
+--
+## Application Programming Interface;
 <br>
 
 --
-### Application Programming Interface;
+## Forma unificada para acessar dados de uma plataforma, a partir de qualquer linguagem de programação;
 <br>
 
 --
-### Forma unificada para acessar dados de uma plataforma, a partir de qualquer linguagem de programação;
+## Facilita a vida da pessoa que programa;
 <br>
 
 --
-### Facilita a vida da pessoa que programa;
+## Geralmente vem acompanhada de documentação.
 <br>
 
 --
-### Geralmente vem acompanhada de documentação.
-<br>
+## Reduz o volume na transferência de dados
 
---
-### Reduz o volume na transferência de dados
+---
+class: middle, center
+
+# Final do segundo encontro! Dúvidas? Perguntas?
 
 ---
 class: middle, center
