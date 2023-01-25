@@ -6,6 +6,9 @@
 - Quem: Prof. Dr. Leonardo Nascimento (LABHD/UFBA)
 - Carga-horária: 6hs
 
+### Slides do mini-curso
+
+- [Slides](https://github.com/leofn/CSC_UNB_2023/blob/main/Slides/slides.pdf)
 
 ### Questionário:
 
