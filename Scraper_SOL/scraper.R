@@ -18,6 +18,8 @@ for(i in seq){
   html_attr("href")
   df <- rbind(df, cbind(href))
   }
+
+#write.csv(df, "./Scraper_SOL/df.csv")
 ## links completos para cada tese/dissertação
 links <- df$href
 links <- paste("https://repositorio.unb.br", links, sep = "")
@@ -49,7 +51,7 @@ for (j in links) {
     stringi::stri_trans_general(id = "Latin-ASCII")
     # download
     download.file(url = glue("https://repositorio.unb.br/{pdf}"), 
-                destfile = glue("Downloads/{titulo}.pdf"))
+                destfile = glue("Downloads/{titulo}.pdf"), mode = "wb")
     df2 <- rbind(df2, cbind(pdf, titulo))
   }
 

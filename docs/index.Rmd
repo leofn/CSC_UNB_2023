@@ -403,7 +403,7 @@ class: middle, center
 
 .pull-left[
 
-## Gabe, 2020
+## Ignatow, 2020
 
 ```{r, out.width="120%"}
 knitr::include_graphics("img/gabe.jpeg")
@@ -564,7 +564,7 @@ class: center, middle
 ### Estudantes de graduação e pós-graduação [deveriam ser] ensinados como construir uma teoria por conta própria, principalmente fazendo pequenos projetos empíricos que introduzem os alunos à abstração, abdução e indução. Ensinar teorização como uma habilidade prática em vez de teoria como história intelectual implica em desenvolver habilidades em design de pesquisa, resolução de problemas e pensamento abstrato, analógico e abdutivo. 
 <br>
 
-##(GABE, 2020, p.96)
+##(Ignatow, 2020, p.96)
 
 ---
 
@@ -672,6 +672,10 @@ class: center, middle
 <br>
 
 --
+## [https://www.zotero.org/](https://www.zotero.org/)
+<br>
+
+--
 ## [Zotero do Zero - Tutorial de instalação do Zotero no Windows 10](https://youtu.be/CPdhyKboKC0)
 <br>
 
@@ -685,20 +689,33 @@ class: center, middle
 <br>
 
 --
-## ATLAS.ti - NVivo - MaxQDA
+### [ATLAS.ti](https://atlasti.com/)
 <br>
 
 --
-## Iramuteq
+### [NVivo](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home)
 <br>
 
 --
-## RQDA
+### [MaxQDA](https://www.maxqda.com/)
+<br>
+
+
+--
+### [Iramuteq](http://www.iramuteq.org/)
+<br>
+
+--
+### [RQDA](https://rqda.r-forge.r-project.org/)
 
 ---
 class: center, middle
 
-# Análise qualitativa de dados
+# Análise qualitativa de dados (ATLAS.ti)
+<br>
+
+--
+## [Slides para aprender o ATLAS.ti versão 7](https://prezi.com/c851ggslq3ef/atlasti-ufjf-2017-modulo-i/?present=1)
 <br>
 
 --
@@ -709,35 +726,259 @@ class: center, middle
 ## [Oficina LABHDUFBA - ATLAS.ti 7 (parte 2)](https://youtu.be/IB3ldXF1zEM)
 
 ---
-#LP:R/Rstudio
+class: center, middle
+
+# R/Rstudio
+<br>
+
+## Por que? Para que? 
+<br>
+
+--
+### [Como instalar?](https://livro.curso-r.com/1-1-instalacao-do-r.html)
+<br>
+
+--
+### [Comece aqui!](https://maryms.github.io/2019-02-R-Basics-R-LadiesSP/#1)
+<br>
+
+--
+### [Onde aprender mais?](https://github.com/beatrizmilz/materiais_estudo_R)
+<br>
+
+--
+### [Canal do R-Brasil no Telegram!](https://t.me/rbrasiloficial)
+<br>
 
 ---
-- Linguagens Python
-- [Git/Github]()
-- Análise de redes
-- Voyant Tools
-- [DMI](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
-- [Text as data](https://github.com/davi-moreira/txt4cs)
-- [SICSS CV](https://sicss.io/curriculum)
-- [SICC R/Rstudio](https://sicss.io/boot_camp/)
-- [R fopr Data Science](https://r4ds.had.co.nz/index.html)
-- [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
-- [Curso de R](https://livro.curso-r.com/2-rstudio.html)
+class: center, middle
 
-(continua)
+# R/Rstudio (plus ultra)
+<br>
+
+### [Canal do R e RStudio 📈📊Humanidades no Telegram!](https://t.me/R_humanidades)
+<br>
+
+--
+### [SICSS R/Rstudio](https://sicss.io/boot_camp/)
+<br>
+
+--
+### [R for Data Science](https://r4ds.had.co.nz/index.html)
+<br>
+
+--
+### [Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
+<br>
+
+--
+### [Curso de R](https://livro.curso-r.com/2-rstudio.html)
+
+---
+class: center, middle
+
+# Python
+<br>
+
+--
+### Por que? Para que? 
+<br>
+
+--
+## [Como instalar?](http://python.org.br/instalacao-windows/)
+<br>
+
+--
+## [Comece aqui!](https://leofn.github.io/oficina-python/#/)
+<br>
+
+--
+## [Onde aprender mais?](https://pythonhumanities.com/python-for-dh-course/)
+
+
+---
+class: center, middle
+
+# Git
+<br>
+
+--
+## Por que? Para que? 
+<br>
+
+--
+## [Como instalar?](https://www.youtube.com/watch?v=IJ2VDiDLzj8)
+<br>
+
+--
+## [Comece aqui!](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/pdf_presentations/2019-09-12-RLadies-12-Git-Github-Ana-Bastos.pdf)
+<br>
+
+--
+##[Git e Github no RStudio](https://beatrizmilz.github.io/RLadies-Git-RStudio-2019/#1)
+
+---
+class: center, middle
+
+# Análise de redes: Gephi
+<br>
+
+--
+## Por que? Para que? 
+<br>
+
+--
+## [Como instalar?](https://ibpad.com.br/comunicacao/aprenda-a-instalar-o-gephi/)
+<br>
+
+--
+## [Comece aqui!](https://seinecle.github.io/gephi-tutorials/generated-pdf/simple-project-from-a-to-z-en.pdf)
+<br>
+
+--
+## [Preparando seus dados: Table 2 Net](https://medialab.github.io/table2net/)
+
+---
+class: center, middle
+
+# Ferramentas de raspagem para Instagram
+<br>
+
+--
+class: center, middle
+
+## [Instaloader](https://instaloader.github.io/)
+<br>
+
+--
+## Após instalar o Python 3 (e devidamente colocado no PATH do Windows!
+<br>
+
+--
+## pip ou pip3 install instaloader
+<br>
+
+--
+## DIGITE após "C:\diretorio>" .---> instaloader profile perfil_sem_@
+
+---
+class: center, middle
+
+# Ferramentas de raspagem para Twitter
+<br>
+
+
+---
+class: center, middle
+
+# Ferramentas para análise de texto: Voyant Tools
+<br>
+
+--
+## Por que? Para que? 
+<br>
+
+--
+## [Como instalar?](https://voyant-tools.org/)
+<br>
+
+--
+## [Comece aqui!](http://www.larhud.ibict.br/index.php?title=Voyant_Tools)
+<br>
+
+---
+class: center, middle
+
+# [Digital Methods Intiative](Digital Methods Initiative)
+
+--
+## Por que?  
+<br>
+
+--
+## [Lista de ferramentas](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
+<br>
+
+---
+class: center, middle
+
+# [Programming Historian](Digital Methods Initiative)
+
+
+---
+class: center, middle
+
+# [SICSS - SSummer Institute in Computational Social Science](https://sicss.io/curriculum)
+<br>
+
+--
+## Por que?  
+<br>
 
 ---
 class: inverse, center, middle
 
 # Alguns conceitos básicos
 
-### API
-### Big data
-### CAQDAS
-### Text as data
-### Webscraping
+---
+class: inverse, center, middle
 
-(continua)
+# Webscraping
+
+---
+class: center, middle
+
+# Webscraping
+<br>
+
+--
+## Em português, "raspagem de dados";
+<br>
+
+--
+## Envolve acessar, baixar e organizar de maneira sistemática dados provenientes da web; 
+<br>
+
+--
+## Tudo o que você vê na internet pode se transformar dados para analisar!
+<br>
+
+--
+## Por que aprender?
+
+---
+class: inverse, center, middle
+
+```{r, out.width="80%"}
+knitr::include_graphics("https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif")
+```
+### "Nunca mande um humano fazer o trabalho de um robô!"
+
+---
+class: inverse, center, middle
+
+# API
+<br>
+
+--
+### Application Programming Interface;
+<br>
+
+--
+### Forma unificada para acessar dados de uma plataforma, a partir de qualquer linguagem de programação;
+<br>
+
+--
+### Facilita a vida da pessoa que programa;
+<br>
+
+--
+### Geralmente vem acompanhada de documentação.
+<br>
+
+--
+### Reduz o volume na transferência de dados
+
 ---
 class: middle, center
 
